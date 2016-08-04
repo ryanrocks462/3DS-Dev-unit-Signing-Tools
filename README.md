@@ -9,3 +9,6 @@ Note : If you have a decrypted .3ds rom directly from Decrypt9 then skip to step
 3. Repack it using Makerom.exe. Be sure to set the Target Type as -d instead of -p and DO NOT FORGET THE .RSF included in this package as it is required and to set the RSF's MediaCard Size when editing!
 4. Rename the Name.3ds/Name.CCI file you generated to Name.csu. (THIS IS VERY IMPORTANT)
 5. Finally Drag your Name.csu file onto RetailToDev.exe and your done.
+
+# Retail to Dev Note
+It's a command line / Drang & Drop tool. No gui will appear
